@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  ORCode
+//  Image2D
 //
-//  Created by customer on 15/10/15.
-//  Copyright © 2015年 Weizh. All rights reserved.
+//  Created by apple on 15/10/15.
+//  Copyright (c) 2015年 diveinedu. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
